@@ -8,17 +8,16 @@
 [![GitHub felipelouzeiro](https://img.shields.io/github/followers/felipelouzeiro?label=follow&style=social)](https://github.com/felipelouzeiro)
 </div>
 
-<h4 align="center">Here are some ideas to get you started:
-</h4>
+<h4 align="center">Here are some ideas to get you started: </h4>
 <p align="center">🌱 I’m currently learning ReactJS
 </p>
 <p align="center">💬 Ask me about Web Development
 </p>
 
-<hr>
+<br>
 
 <div align="center">
-<h4> Languages, Tools & Abilities </h4>
+<h4> Languages, Tools & Abilities: </h4>
 
   <img title="Javascript" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/javascript.svg">
   <img title="Problem Solving" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/problemSolving.png">
