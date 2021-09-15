@@ -14,7 +14,6 @@
 <p align="center">💬 Ask me about Web Development
 </p>
 
-<br>
 
 <h3 align="center"> Stats </h3>
 <br>
