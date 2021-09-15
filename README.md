@@ -5,7 +5,6 @@
 <div align="center">  
   
   [![Linkedin: Felipelouzeiro](https://img.shields.io/badge/-felipelouzeiro-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipelouzeiro/)](https://www.linkedin.com/in/ghazi-khan/)
-  [![GitHub felipelouzeiro](https://img.shields.io/github/followers/felipelouzeiro?label=follow&style=social)](https://github.com/felipelouzeiro)
 </div>
 
 <p align="center">💬 I'm a web development student
