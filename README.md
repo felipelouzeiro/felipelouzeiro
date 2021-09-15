@@ -13,6 +13,6 @@
 <h3 align="center"> Stats </h3>
 
 <div align=center>
-  <img align="center" height="180em" width="400em" src="https://github-readme-stats.vercel.app/api?username=felipelouzeiro&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
-  <img align="center" height="180em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipelouzeiro&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+  <img align="center" height="180em" width="370em" src="https://github-readme-stats.vercel.app/api?username=felipelouzeiro&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+  <img align="center" height="180em" width="370em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipelouzeiro&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
 </div>
