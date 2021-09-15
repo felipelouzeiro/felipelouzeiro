@@ -9,7 +9,6 @@
 </div>
 
 <h4 align="center">Here are some ideas to get you started: </h4>
-<p align="center">🌱 I’m currently learning ReactJS
 </p>
 <p align="center">💬 Ask me about Web Development
 </p>
