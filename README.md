@@ -4,7 +4,7 @@
 
 <div align="center">  
   
-  [![Linkedin: Felipelouzeiro](https://img.shields.io/badge/-felipelouzeiro-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipelouzeiro/)](https://www.linkedin.com/in/ghazi-khan/)
+  [![Linkedin: Felipelouzeiro](https://img.shields.io/badge/-felipelouzeiro-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipelouzeiro/)](https://www.linkedin.com/in/felipelouzeiro/)
 </div>
 
 <p align="center">💬 I'm a web development student
