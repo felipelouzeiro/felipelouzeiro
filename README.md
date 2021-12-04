@@ -7,7 +7,7 @@
 <p align="center">
   A pouco tempo trilhei por varios conceitos em frontend como react.js, bibliotecas de testes e redux, foi incrível! 
   Atualmente estou desbravando os bancos de dados em backend e seguindo firme na evolução das minhas softskills.
-  Logo mais você encontra infomações sobre as tecnologias que mais utilizo e as quais estou aprendendo:)</p> 
+</p> 
 <p align="center">
   Logo mais você encontra infomações sobre as tecnologias que mais utilizo enquanto aprendo:)
 </p> 
