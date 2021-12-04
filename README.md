@@ -37,3 +37,6 @@
   
   [![Linkedin: Felipelouzeiro](https://img.shields.io/badge/-felipelouzeiro-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipelouzeiro/)](https://www.linkedin.com/in/felipelouzeiro/)
 </div>
+<div align="center">  
+  Um resumo das minhas skills: https://resume.io/r/ZmwWrSEcv  
+ </div>
