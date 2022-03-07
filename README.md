@@ -4,10 +4,6 @@
 <p align="center">
   Tenho 23 anos, estou em transição de carreira e estudo desenvolvemento web na <a href="https://www.betrybe.com/">Trybe</a>.
 </p> 
-<p align="center">
-  A pouco tempo trilhei por varios conceitos em frontend como react.js, bibliotecas de testes e redux, foi incrível! 
-  Atualmente estou desbravando os bancos de dados em backend e seguindo firme na evolução das minhas softskills.
-</p> 
 
 ## Meus status
 
