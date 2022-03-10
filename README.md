@@ -10,8 +10,6 @@
 - 📧: Meu email - **fl.louzeiro@gmail.com;**
 - :octocat: obs - **Sempre há a possibilidade de encontrar pelos na minha roupa, pois sempre tem um gato dormindo no meu colo quando estou codando /\;**
 
-## Meus status
-
 <div display="flex" align="center">
   <img height="180em" width="370em" src="https://github-readme-stats.vercel.app/api?username=felipelouzeiro&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
   <img height="180em" width="370em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipelouzeiro&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
