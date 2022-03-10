@@ -6,6 +6,7 @@
 </p> 
 
 - 🙆 Sobre mim - **Tenho 24 anos, brasileiro;**
+- 📖 **No momento estou estudando Python e testes de integração/unitários;**
 - 📧: Meu email - **fl.louzeiro@gmail.com;**
 - :octocat: obs - **Sempre há a possibilidade de encontrar pelos na minha roupa, pois sempre tem um gato dormindo no meu colo quando estou codando /\;**
 
