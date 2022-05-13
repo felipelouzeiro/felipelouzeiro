@@ -10,6 +10,7 @@
 - 📧: Meu email - **fl.louzeiro@gmail.com;**
 - :octocat: obs - **Sempre há a possibilidade de encontrar pelos na minha roupa, pois sempre tem um gato dormindo no meu colo quando estou codando /\;**
 - 💼: [Currículo](https://drive.google.com/file/d/13Aj7wGZzBRQsUzbUwvTFEFtqsOlXHPE-/view?usp=sharing)
+<img src="./images/gatinho-arco-íris.gif" alt="gif de gatinho arco-íris">
 
 <div display="flex" align="center">
   <img height="180em" width="370em" src="https://github-readme-stats.vercel.app/api?username=felipelouzeiro&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
