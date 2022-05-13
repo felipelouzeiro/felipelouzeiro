@@ -12,7 +12,7 @@
 - 📖 **No momento estou estudando Java, padrões de projeto e testes de integração/unitários;**
 - 📧: Meu email - **fl.louzeiro@gmail.com;**
 - :octocat: obs - **Sempre há a possibilidade de encontrar pelos na minha roupa, pois sempre tem um gato dormindo no meu colo quando estou codando /\;**
-- 💼: [Currículo](https://drive.google.com/file/d/13Aj7wGZzBRQsUzbUwvTFEFtqsOlXHPE-/view?usp=sharing)
+- 💼: [Currículo](https://drive.google.com/file/d/1xF6pe92S0gDyj_RDRBgyU_upAIeuo9QZ/view?usp=sharing)
 
 <br>
 
