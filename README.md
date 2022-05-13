@@ -1,8 +1,11 @@
 <h3 align="center">
   Oie! 👋
 </h3> 
-<p align="center">
- Me chamo Felipe e sou desenvolvedor de software, abaixo tem alguns informações sobre meu momento atual de aprendizado, se quiser me conhecer um pouco mais fique a vontade para me dá um "oi" no linkedIn!
+<p>
+    <img align="right" src="https://i.pinimg.com/originals/ce/7c/8a/ce7c8a294d917b3325ec5ba2e09f980d.gif" height="25%"        width="25%"          alt="gif de gatinho arco-íris">
+</p>
+ <p align="left">
+   Me chamo Felipe e sou desenvolvedor de software, abaixo tem alguns informações sobre meu momento atual de aprendizado, se quiser me conhecer um          pouco mais fique a vontade para me dá um "oi" no linkedIn!
 </p> 
 
 - 🙆 Sobre mim - **Tenho 24 anos, brasileiro;**
@@ -10,12 +13,15 @@
 - 📧: Meu email - **fl.louzeiro@gmail.com;**
 - :octocat: obs - **Sempre há a possibilidade de encontrar pelos na minha roupa, pois sempre tem um gato dormindo no meu colo quando estou codando /\;**
 - 💼: [Currículo](https://drive.google.com/file/d/13Aj7wGZzBRQsUzbUwvTFEFtqsOlXHPE-/view?usp=sharing)
-<img src="./images/gatinho-arco-íris.gif" alt="gif de gatinho arco-íris">
 
-<div display="flex" align="center">
+<br>
+
+<div display="flex" align="left">
   <img height="180em" width="370em" src="https://github-readme-stats.vercel.app/api?username=felipelouzeiro&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
   <img height="180em" width="370em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipelouzeiro&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
 </div>
+
+<br>
 
 ## Tecnologias aprendidas até o momento
 
