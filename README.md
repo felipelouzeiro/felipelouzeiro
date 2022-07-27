@@ -1,9 +1,6 @@
 <h3 align="center">
-  Oie! 👋
+  Oi! 👋
 </h3> 
-<p>
-    <img align="right" src="https://i.pinimg.com/originals/ce/7c/8a/ce7c8a294d917b3325ec5ba2e09f980d.gif" height="25%"        width="25%"          alt="gif de gatinho arco-íris">
-</p>
  <p align="left">
    Me chamo Felipe e sou desenvolvedor de software, abaixo tem alguns informações sobre meu momento atual de aprendizado, se quiser me conhecer um          pouco mais fique a vontade para me dá um "oi" no linkedIn!
 </p> 
