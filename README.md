@@ -44,11 +44,11 @@
 
   ## Sobre
   
-  <a href="https://github.com/felipelouzeiro/github-readme-stats">
+  <a>
     <img align="center" height="200px" src="https://github-readme-stats.vercel.app/api?username=felipelouzeiro&count_private=true&show_icons=true&theme=dracula" />
   </a>
   
-  <a href="https://github.com/felipelouzeiro/github-readme-stats">
+  <a>
     <img align="center" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipelouzeiro&layout=compact&theme=dracula" />
   </a>
 </div>
