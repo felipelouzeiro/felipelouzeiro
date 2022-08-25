@@ -44,7 +44,7 @@
 
   ## Sobre
   
-  <a href="">
+  <a href="#">
     <img align="center" height="200px" src="https://github-readme-stats.vercel.app/api?username=felipelouzeiro&count_private=true&show_icons=true&theme=dracula" />
   </a>
   
