@@ -1,6 +1,6 @@
 <div align="center">
 
-  ## Oi! 👋
+  ## ..Oi! 👋
    
  Me chamo Felipe e sou desenvolvedor de software, tenho formação técnica em informática pelo IFPI e recentemente concluí um curso intenso de programação web fullstack na Trybe. 
  Abaixo tem alguns informações sobre meu momento atual de aprendizado, fique a vontade!
@@ -10,9 +10,10 @@
 
 <div align="left">
 
-  - 🙆 Sobre mim - **Tenho 24 anos, brasileiro;**
-  - :octocat: obs - **Sempre há a possibilidade de encontrar pelos na minha roupa, pois sempre tem um gato dormindo no meu colo quando estou codando /\;**
-  - 💼: [Currículo](https://drive.google.com/file/d/1CveUdVIdldM7s7v3_RwqT1Ym_Aeb9Nza/view?usp=sharing)
+  🙆 Sobre mim 
+  - Sou pai de gatos :octocat: então sempre há possibilidade de encontrar pelos na minha roupa, pois sempre tem um gato dormindo no meu colo (ou no teclado mesmo) quando estou estudando /\;
+  - Diurno;
+  - Interessado em movimentos coletivos, principalmente aqueles que promovem apoio social.
   
 </div>
 
