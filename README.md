@@ -1,27 +1,20 @@
-<div align="center">
-
-  ## ..Oi! 👋
-   
- Me chamo Felipe e sou desenvolvedor de software, tenho formação técnica em informática pelo IFPI e recentemente concluí um curso intenso de programação web fullstack na Trybe. 
- Abaixo tem alguns informações sobre meu momento atual de aprendizado, fique a vontade!
-</div>
-
-<br>
-
-<div align="left">
-
-  🙆 Sobre mim 
-  - Sou pai de gatos :octocat: então sempre há possibilidade de encontrar pelos na minha roupa, pois sempre tem um gato dormindo no meu colo (ou no teclado mesmo) quando estou estudando /\;
-  - Diurno;
-  - Interessado em movimentos coletivos, principalmente aqueles que promovem apoio social.
+  ## Oi estranho! 👋
   
+  Meu nome é Felipe Louzeiro, tenho 24 anos, nasci no Piauí e atualmente moro em Goiânia - Goiás. Sou técnico em Informática pelo IFPI e estou me graduando em Análise e Desenvolvimento de Sistemas pela PUC Goiás. Tenho conhecimentos em front-end e back-end, assim como bancos de dados e testes de software. No meu tempo livre, gosto de ler ficção algum RTS daora. Tenho obsessão por gatos :octocat:, então sempre há possibilidade de encontrar pelos na minha roupa.
+<div align="center">  
+  <a href="#">
+    <img align="center" height="200px" src="https://github-readme-stats.vercel.app/api?username=felipelouzeiro&count_private=true&show_icons=true&theme=dracula" />
+  </a>
+  <a href="#">
+    <img align="center" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipelouzeiro&layout=compact&theme=dracula" />
+  </a>
 </div>
 
 <br>
 
 <div align="center">
 
-  ## Tecnologias aprendidas até o momento
+  ## Não gosto me apego a ferramentas, mas aqui estão algumas das tecnologias que já usei
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60px" height="50px" alt="html5" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60px" height="50px" alt="css3" />
@@ -37,21 +30,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="60px" height="50px" alt="mysql" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="60px" height="50px" alt="mongodb" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="60px" height="50px" alt="jest" />
-</div>
-
-<br>
-
-<div align="center">
-
-  ## Sobre
-  
-  <a href="#">
-    <img align="center" height="200px" src="https://github-readme-stats.vercel.app/api?username=felipelouzeiro&count_private=true&show_icons=true&theme=dracula" />
-  </a>
-  
-  <a href="#">
-    <img align="center" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipelouzeiro&layout=compact&theme=dracula" />
-  </a>
 </div>
 
 <br>
