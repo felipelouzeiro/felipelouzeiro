@@ -3,10 +3,10 @@
   Meu nome é Felipe Louzeiro, tenho 24 anos, nasci no Piauí e atualmente moro em Goiânia - Goiás. Sou técnico em Informática pelo IFPI e estou me graduando em Análise e Desenvolvimento de Sistemas pela PUC Goiás. Tenho conhecimentos em front-end e back-end, assim como bancos de dados e testes de software. No meu tempo livre, gosto de ler ficção ou jogar algum RTS daora. Tenho obsessão por gatos :octocat:, então sempre há possibilidade de encontrar pelos na minha roupa.
 <div align="center">  
   <a href="#">
-    <img align="center" height="200px" src="https://github-readme-stats.vercel.app/api?username=felipelouzeiro&count_private=true&show_icons=true&theme=dracula" />
+    <img align="center" height="150px" src="https://github-readme-stats.vercel.app/api?username=felipelouzeiro&count_private=true&show_icons=true&theme=dracula" />
   </a>
   <a href="#">
-    <img align="center" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipelouzeiro&layout=compact&theme=dracula" />
+    <img align="center" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipelouzeiro&layout=compact&theme=dracula" />
   </a>
 </div>
 
