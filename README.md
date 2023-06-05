@@ -2,6 +2,7 @@
   
   Meu nome é Felipe Louzeiro, sou Piauiense<3 e atualmente moro na Goiânia, Go. Sou técnico em Informática pelo IFPI e estou me graduando em Análise e Desenvolvimento de Sistemas na PUC Goiás. Tenho prática com sistemas front-end e back-end, assim como bancos de dados e testes de software, me interesso bastante por arquitetura.
   
+<!--
 <div align="center">  
   <a href="#">
     <img align="center" height="150px" src="https://github-readme-stats.vercel.app/api?username=felipelouzeiro&count_private=true&show_icons=true&theme=dracula" />
@@ -10,6 +11,7 @@
     <img align="center" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipelouzeiro&layout=compact&theme=dracula" />
   </a>
 </div>
+-->
 
 <br>
 
