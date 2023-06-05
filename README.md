@@ -17,7 +17,7 @@
 
 <div align="center">
 
-  #### Não me restrinjo, mas já usei:
+  #### Não me restrinjo, mas uso:
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40px" height="30px" alt="html5" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40px" height="30px" alt="css3" />
