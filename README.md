@@ -1,6 +1,6 @@
   ## Oi! 👋
   
-  Meu nome é Felipe Louzeiro, sou piauiense e atualmente moro em Goiânia-Go. Sou técnico em Informática pelo IFPI e estou me graduando em Análise e Desenvolvimento de Sistemas na PUC Goiás. Tenho prática com sistemas front-end e back-end, assim como bancos de dados e testes de software, me interesso bastante por arquitetura.
+  Meu nome é Felipe Louzeiro, sou piauiense e atualmente moro em Goiânia-Go. Sou técnico em Informática pelo IFPI e estou me graduando em Análise e Desenvolvimento de Sistemas na PUC Goiás. Atualmente atuo com desenvolvimento de sistemas, análise e testes de software.
   
 <!--
 <div align="center">  
@@ -56,7 +56,7 @@
 <br>
 
 <div align="center">
-  <a href="https://felipelouzeiro.vercel.app/" target="_blank" rel="external"><img src="https://img.shields.io/badge/Portfólio-F7DF1E?style=for-the-badge&logo=js&logoColor=black" alt="Portfólio"></a>
+ <!-- <a href="https://felipelouzeiro.vercel.app/" target="_blank" rel="external"><img src="https://img.shields.io/badge/Portfólio-F7DF1E?style=for-the-badge&logo=js&logoColor=black" alt="Portfólio"></a> -->
   <a href="https://www.linkedin.com/in/felipelouzeiro/" target="_blank" rel="external"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=link&logoColor=white" alt="Linkedin"></a>
   <a href="mailto:fl.louzeiro@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
 </div>
