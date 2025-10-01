@@ -1,6 +1,6 @@
   ## Oi! 👋
   
-  Meu nome é Felipe Louzeiro, sou piauiense e atualmente moro em Goiânia-Go. Sou técnico em Informática pelo IFPI e estou me graduando em Análise e Desenvolvimento de Sistemas na PUC Goiás. Atualmente atuo com desenvolvimento de sistemas, análise e testes de software.
+  Meu nome é Felipe Louzeiro, sou piauiense e atualmente moro em Goiânia-Go. Sou técnico em Informática pelo IFPI e graduado em Análise e Desenvolvimento de Sistemas na PUC Goiás. Atualmente atuo com desenvolvimento de sistemas, análise e testes de software.
   
 <!--
 <div align="center">  
